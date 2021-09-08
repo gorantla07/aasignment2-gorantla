@@ -36,3 +36,10 @@ New York City is the largest city in the Unites states. New York City is the hub
 |Diet Pepsi  | Valk Build| $1.05    |
 |Dr. Pepper  | Garret str| $1.08    |
 
+### Best Quotes...
+
+---
+
+> Without Begining, no one can taste fail and no one can taste successfull
+>***APJ Kalam***
+
