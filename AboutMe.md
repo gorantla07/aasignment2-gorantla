@@ -2,4 +2,4 @@
 
 Hello Folks, I am Manoj Gorantla I love to watch and play Football(Soccer).
 
-![Submission Screenshot](ss3.png)
+![Submission Screenshot](SS3.png)
