@@ -46,4 +46,40 @@ New York City is the largest city in the Unites states. New York City is the hub
 > If you don't ask, you won't get it.
 >***M.K.Gandhi***
 
+### Code Fencing,,,
+
+---
+
+> Very few theoretical results have been obtained to date about the behavior of information retrieval algorithms under random deletions, as, well as random insertions.<br>
+> A step-by-step expository analysis of this problem is given, and it is shown how the difficulties arise and can be surmounted.
+
+Formal definition can be represented in the following elementary O(n2) implementation.
+
+```
+
+vector<int> z_function_trivial(string s) {
+    int n = (int) s.length();
+    vector<int> z(n);
+    for (int i = 1; i < n; ++i)
+        while (i + z[i] < n && s[z[i]] == s[i + z[i]])
+            ++z[i];
+    return z;
+}
+vector<int> z_function(string s) {
+    int n = (int) s.length();
+    vector<int> z(n);
+    for (int i = 1, l = 0, r = 0; i < n; ++i) {
+        if (i <= r)
+            z[i] = min (r - i + 1, z[i - l]);
+        while (i + z[i] < n && s[z[i]] == s[i + z[i]])
+            ++z[i];
+        if (i + z[i] - 1 > r)
+            l = i, r = i + z[i] - 1;
+    }
+    return z;
+}
+
+```
+<https://www.sciencedirect.com/science/article/pii/002200007890020X>
+
 
