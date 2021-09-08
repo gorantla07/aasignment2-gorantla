@@ -14,3 +14,13 @@ New York City is the largest city in the Unites states. New York City is the hub
 2. From Kansas City Bus Station board a Bus to the Maryville, Missouri.
     1. From Maryville, Missouri downtown go starigt towards North untill you reach Finish Line.
     2. From Finish Line go towards East continue on the 7th street untill you reach Parkway Terrace Apartments.
+
++ From Maryville bring lots of Food and Drinks to the NYC.
+    + Solid Food
+        + Rice.
+        + Curries
+        + Yogurt
+    + Beverages
+        + Diet COke
+        + Bud Light
+
