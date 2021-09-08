@@ -43,3 +43,7 @@ New York City is the largest city in the Unites states. New York City is the hub
 > Without Begining, no one can taste fail and no one can taste successfull
 >***APJ Kalam***
 
+> If you don't ask, you won't get it.
+>***M.K.Gandhi***
+
+
