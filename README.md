@@ -26,3 +26,13 @@ New York City is the largest city in the Unites states. New York City is the hub
 
 [View AboutMe](AboutMe.md)
 
+### Dinning Menu...
+
+---
+
+| Drinks     | Location  | Amount   |
+| -----------|   --------|   -------|
+|Diet Coke   | Colden Hal| $1.10    |
+|Diet Pepsi  | Valk Build| $1.05    |
+|Dr. Pepper  | Garret str| $1.08    |
+
